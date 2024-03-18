@@ -1,5 +1,5 @@
 # Sunsave Assignment - Battery Controller
-This is the repository for the coding assignment I completed for Sunsave. The task was to build a simple battery controller using either JS or TS. The task is detailed below. All that follows is the solution I provided for the task.
+This is the repository for the coding assignment I completed for Sunsave. The task was to build a simple battery controller using either JS or TS. All that follows is the solution I provided for the task.
 
 ___
 
